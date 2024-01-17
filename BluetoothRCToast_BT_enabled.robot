@@ -1,5 +1,4 @@
 *** Settings ***
-Library             AppiumLibrary
 Library             XML
 Resource            MyAndroidPhone.resource
 Test Setup          Setup And Open Android Phone

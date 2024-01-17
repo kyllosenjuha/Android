@@ -1,5 +1,4 @@
 *** Settings ***
-Library             AppiumLibrary
 Resource            MyAndroidPhone.resource
 Test Setup          Setup And Open Android Phone
 Test Template       Click My Buttons
